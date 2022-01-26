@@ -46,8 +46,6 @@ Resets the synchronization object state, allowing the allocator to reuse the syn
 
 ## -returns
 
-The handle is signaled when there are no longer any pending resource release or resource ready signals for the current resource.  If the event handle has restricted access rights, the handle must have at least the [EVENT_MODIFY_STATE](/windows/win32/sync/synchronization-object-security-and-access-rights) right.
-
 ## -remarks
 
 ## -see-also
