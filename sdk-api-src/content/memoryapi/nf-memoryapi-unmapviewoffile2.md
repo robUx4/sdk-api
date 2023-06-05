@@ -11,8 +11,8 @@ ms.keywords: MEM_PRESERVE_PLACEHOLDER, MEM_UNMAP_WITH_TRANSIENT_BOOST, UnmapView
 req.header: memoryapi.h
 req.include-header: Windows.h, Memoryapi.h
 req.target-type: Windows
-req.target-min-winverclnt: Windows 10, version 1703 [desktop apps only]
-req.target-min-winversvr: Windows Server 2016 [desktop apps only]
+req.target-min-winverclnt: Windows 10, version 1703 [desktop apps | UWP apps]
+req.target-min-winversvr: Windows Server 2016 [desktop apps | UWP apps]
 req.kmdf-ver: 
 req.umdf-ver: 
 req.ddi-compliance: 
