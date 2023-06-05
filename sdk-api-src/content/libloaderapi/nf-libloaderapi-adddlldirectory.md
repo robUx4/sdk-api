@@ -11,8 +11,8 @@ ms.keywords: AddDllDirectory, AddDllDirectory function, base.adddlldirectory, li
 req.header: libloaderapi.h
 req.include-header: Windows.h
 req.target-type: Windows
-req.target-min-winverclnt: Windows 8 [desktop apps only],KB2533623      on Windows 7, Windows Server 2008 R2, Windows Vista, and      Windows Server 2008
-req.target-min-winversvr: Windows Server 2012 [desktop apps only]
+req.target-min-winverclnt: Windows 8 [desktop apps | UWP apps],KB2533623      on Windows 7, Windows Server 2008 R2, Windows Vista, and      Windows Server 2008
+req.target-min-winversvr: Windows Server 2012 [desktop apps | UWP apps]
 req.kmdf-ver: 
 req.umdf-ver: 
 req.ddi-compliance: 
