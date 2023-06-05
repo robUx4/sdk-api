@@ -18,8 +18,8 @@ req.lib: Kernel32.lib
 req.max-support: 
 req.namespace: 
 req.redist: 
-req.target-min-winverclnt: Windows 2000 Professional [desktop apps only] 
-req.target-min-winversvr: Windows 2000 Server [desktop apps only] 
+req.target-min-winverclnt: Windows 2000 Professional [desktop apps | UWP apps] 
+req.target-min-winversvr: Windows 2000 Server [desktop apps | UWP apps] 
 req.target-type: Windows 
 req.type-library: 
 req.umdf-ver: 

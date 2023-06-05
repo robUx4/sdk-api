@@ -11,8 +11,8 @@ ms.keywords: GetCurrentPackageId, GetCurrentPackageId function [App packaging an
 req.header: appmodel.h
 req.include-header: 
 req.target-type: Windows
-req.target-min-winverclnt: Windows 8 [desktop apps only]
-req.target-min-winversvr: Windows Server 2012 [desktop apps only]
+req.target-min-winverclnt: Windows 8 [desktop apps | UWP apps]
+req.target-min-winversvr: Windows Server 2012 [desktop apps | UWP apps]
 req.kmdf-ver: 
 req.umdf-ver: 
 req.ddi-compliance: 

@@ -11,8 +11,8 @@ ms.keywords: HANDLE_FLAG_INHERIT, HANDLE_FLAG_PROTECT_FROM_CLOSE, SetHandleInfor
 req.header: handleapi.h
 req.include-header: Windows.h
 req.target-type: Windows
-req.target-min-winverclnt: Windows 2000 Professional [desktop apps only]
-req.target-min-winversvr: Windows 2000 Server [desktop apps only]
+req.target-min-winverclnt: Windows 2000 Professional [desktop apps | UWP apps]
+req.target-min-winversvr: Windows 2000 Server [desktop apps | UWP apps]
 req.kmdf-ver: 
 req.umdf-ver: 
 req.ddi-compliance: 

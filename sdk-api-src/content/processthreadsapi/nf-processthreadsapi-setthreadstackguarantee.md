@@ -11,8 +11,8 @@ ms.keywords: SetThreadStackGuarantee, SetThreadStackGuarantee function, base.set
 req.header: processthreadsapi.h
 req.include-header: Windows.h on Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008  Windows Server 2008 R2
 req.target-type: Windows
-req.target-min-winverclnt: Windows Vista, Windows XP Professional x64 Edition [desktop apps only]
-req.target-min-winversvr: Windows Server 2008, Windows Server 2003 with SP1 [desktop apps only]
+req.target-min-winverclnt: Windows Vista, Windows XP Professional x64 Edition [desktop apps | UWP apps]
+req.target-min-winversvr: Windows Server 2008, Windows Server 2003 with SP1 [desktop apps | UWP apps]
 req.kmdf-ver: 
 req.umdf-ver: 
 req.ddi-compliance: 

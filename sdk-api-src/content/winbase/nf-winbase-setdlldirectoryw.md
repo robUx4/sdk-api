@@ -11,8 +11,8 @@ ms.keywords: SetDllDirectory, SetDllDirectory function, SetDllDirectoryA, SetDll
 req.header: winbase.h
 req.include-header: Windows.h
 req.target-type: Windows
-req.target-min-winverclnt: Windows Vista, Windows XP with SP1 [desktop apps only]
-req.target-min-winversvr: Windows Server 2003 [desktop apps only]
+req.target-min-winverclnt: Windows Vista, Windows XP with SP1 [desktop apps | UWP apps]
+req.target-min-winversvr: Windows Server 2003 [desktop apps | UWP apps]
 req.kmdf-ver: 
 req.umdf-ver: 
 req.ddi-compliance: 
